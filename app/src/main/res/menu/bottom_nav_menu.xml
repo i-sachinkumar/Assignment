@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"
+        android:enabled="true" />
+
+    <item
+        android:id="@+id/bookmark"
+        android:icon="@drawable/bookmark"
+        android:title="Bookmark"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/tv"
+        android:icon="@drawable/bookmark"
+        android:title="Tv" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/bookmark"
+        android:title="Notification"
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/bookmark"
+        android:title="Profile"
+        android:enabled="true"/>
+
+</menu>
